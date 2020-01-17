@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    creek (2.5.0)
+      nokogiri (>= 1.10.0)
+      rubyzip (>= 1.0.0)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.7)
+      mini_portile2 (~> 2.4.0)
+    rubyzip (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  creek
+
+BUNDLED WITH
+   1.17.3
