@@ -4,9 +4,11 @@ GEM
     creek (2.5.0)
       nokogiri (>= 1.10.0)
       rubyzip (>= 1.0.0)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.7)
-      mini_portile2 (~> 2.4.0)
+    mini_portile2 (2.8.1)
+    nokogiri (1.14.3)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    racc (1.6.2)
     rubyzip (2.0.0)
 
 PLATFORMS
